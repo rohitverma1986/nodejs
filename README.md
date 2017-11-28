@@ -11,3 +11,12 @@ Steps:
   3. execute "node app.js" # This should show server started on port 8000
   4. open browser and browse localhost:8000
   
+
+
+What is it all about?
+Its a simple node app that shows usage of various node modules( http, url, queryString, fs etc.)
+Its home page show a review form, that accepts user name and her/his review .
+Once review is posted by any visitor, it is just displayed in next page and stored in a file on server as well.
+in later commits we will see db conectivity and other advance features branch-wise.
+
+Thankyou! 
