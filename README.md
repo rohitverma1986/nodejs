@@ -20,3 +20,10 @@ What is it all about?
  In later commits we will see db conectivity and other advance features branch-wise.
 
 Thankyou! 
+
+
+Version V1_mongodb_connectivity
+install mongodb drivers using following command 
+  cd <PROJECT_FOLDER>
+  npm install mongodb
+
